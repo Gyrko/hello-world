@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+I am Gyrko. I would like to learn programming a bit.
